@@ -23,7 +23,6 @@ int simple_init(void)
 {
        printk(KERN_INFO "Loading Module\n");
        printk(KERN_INFO "GOLDEN_RATIO_PRIME IS: %lu\n", GOLDEN_RATIO_PRIME);
-       p
        return 0;
 }
 
