@@ -116,4 +116,3 @@ module_exit(proc_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Display Seconds");
 MODULE_AUTHOR("SGG");
-
